@@ -1,1 +1,1 @@
-# system odoo for pronexo
+# system odoo by pronexo
